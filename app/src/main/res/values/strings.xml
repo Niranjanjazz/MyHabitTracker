@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyHabitTracker</string>
+
+    <string name="habit">ENTER HABIT</string>
+    <string name="next">ADD</string>
+    <string name="update">update</string>
+    <string name="duration">enter duration</string>
+    <string name="delete">delete</string>
+    <string name="text">text</string>
+</resources>
